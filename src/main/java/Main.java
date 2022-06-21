@@ -1,3 +1,5 @@
+import ru.netology.javaqa.javaqamvn.services.SalesService;
+
 public class Main {
     public static void main(String[] args) {
         SalesService service = new SalesService();
